@@ -1,0 +1,19 @@
+{
+  "server": {
+    "protocol": "http",
+    "apiUrl": "localhost",
+    "port": 5000,
+    "webAppProtocol": "http",
+    "webAppUrl": "localhost",
+    "webAppPort": 4200
+  },
+  "database": {
+    "mysql": {
+      "username": "root",
+      "password": "",
+      "host": "127.0.0.1",
+      "port": "3306",
+      "db": "bitcoin"
+    }
+  }
+}

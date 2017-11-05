@@ -1,0 +1,9 @@
+{
+
+    "username": "root",
+    "password": "",
+    "database": "bitcoin",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+
+}
